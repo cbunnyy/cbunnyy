@@ -1,3 +1,4 @@
+![banner](banner.png)
 ## Hi, I'm Garima
 
 Learning to code and building in public.
